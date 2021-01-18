@@ -6,7 +6,7 @@
 	"Plugins": [
 		{
 			"Name": "OctanePlugin",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "Prefabricator",

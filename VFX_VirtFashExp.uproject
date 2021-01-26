@@ -12,6 +12,10 @@
 		{
 			"Name": "OctanePlugin",
 			"Enabled": false
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
